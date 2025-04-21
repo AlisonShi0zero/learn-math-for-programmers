@@ -163,7 +163,6 @@ def main():
             else:
                 draw_poly(screen, asteroid, color=GREEN)
 
-
         pygame.display.flip()
 
     pygame.quit()
